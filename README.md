@@ -20,6 +20,8 @@ The Caesar Cipher is a simple encryption technique where each letter in the plai
 
 ### Preview
 
+![Caesar Cipher](caesar.png)
+
 ### 2. Pixel Manipulation for Image Encryption
 
 This project demonstrates a method of encrypting an image by manipulating its pixels. The encrypted image can be decrypted to retrieve the original image.
@@ -30,6 +32,10 @@ This project demonstrates a method of encrypting an image by manipulating its pi
 
 ### Preview
 
+![Pixel1](image.png)
+![Pixel2](encryptedimage.png)
+![Pixel3](decryptedimage.png)
+
 ### 3. Keylogger.py
 
 This project implements a basic keylogger in Python, which captures and logs keystrokes.
@@ -39,7 +45,7 @@ This project implements a basic keylogger in Python, which captures and logs key
 - Logs keystrokes to a file
 
 ### Preview
-
+![Keylogger](keylogger.png)
 
 ### 4. PasswordCheck.html
 
@@ -50,6 +56,9 @@ This project provides a simple HTML form to check the strength of a password. It
 - Real-time feedback
 
 ### Preview
+![weak](weak.png)
+![moderate](moderate.png)
+![great](great.png)
 
 
 ## Contact
