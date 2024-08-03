@@ -32,7 +32,7 @@ This project demonstrates a method of encrypting an image by manipulating its pi
 
 ### Preview
 <b>Decrypted Image</b><br>
-![Pixel3](decrypted_image.png)
+![Pixel3](decrypted_image.png)<br>
 <b>Encrypted Image</b><br>
 ![Pixel2](encrypted_image.png)
 
