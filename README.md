@@ -32,9 +32,9 @@ This project demonstrates a method of encrypting an image by manipulating its pi
 
 ### Preview
 
-![Pixel1](image.png)
-![Pixel2](encryptedimage.png)
-![Pixel3](decryptedimage.png)
+![Pixel1](image.jpg)
+![Pixel2](encrypted_image.png)
+![Pixel3](decrypted_image.png)
 
 ### 3. Keylogger.py
 
@@ -45,7 +45,7 @@ This project implements a basic keylogger in Python, which captures and logs key
 - Logs keystrokes to a file
 
 ### Preview
-![Keylogger](keylogger.png)
+![Keylogger](key.png)
 
 ### 4. PasswordCheck.html
 
